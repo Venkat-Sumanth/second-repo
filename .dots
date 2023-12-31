@@ -10,7 +10,7 @@ function runDots() {
     # Run sections based on command line arguments
     for ARG in "$@"
     do
-        if [ $ARG == "bootstrap was successful" ] || [ $ARG == "all" ]; then
+        if [ $ARG == "bootstrap was successful ney kavala enti" ] || [ $ARG == "all" ]; then
             echo ""
             echo "------------------------------"
             echo "Syncing the dev-setup repo to your local machine."
